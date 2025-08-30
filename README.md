@@ -57,13 +57,18 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  1200:12                |                  1204:24 |
+|  1201:34                |                  1205:68 |
+|  1202:12                |                          |
+|  1203:34                |                          |
 
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+---![IMG-20250830-WA0002 1](https://github.com/user-attachments/assets/b6bde718-d2b7-4bd3-bdba-87a71beeb31f)
+
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
@@ -90,13 +95,20 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|    1200:12               |  1204:00                 |
+|   1201:34               |  1205:00                 |              
+|   1202:12               |                          |
+|   1203:34              |                          |
+
+
 
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+---![IMG-20250830-WA0001 1](https://github.com/user-attachments/assets/74782ca9-d519-4e36-95b2-9d8630b7a1a0)
+
+
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -139,13 +151,18 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|   1200:12              |  1204:44                 |
+|   1201:34               |  1205:51                 |              
+|   1202:12               |  1206:97                 |
+|   1203:34               |  1207:0A                 |
 
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+---<img width="711" height="576" alt="image" src="https://github.com/user-attachments/assets/59afaac2-8ee4-4a7a-b3e0-a02217a2be28" />
+
+
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
@@ -184,13 +201,19 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|   1200:12               |                          |
+|   1201:34               |  1204:01                 |              
+|   1202:12               |  1205:00                 |
+|   1203:34               |  1206:00                 |
 
 #### Manual Calculations
 
 (Add your calculation here)
 
----
+---<img width="738" height="576" alt="image" src="https://github.com/user-attachments/assets/024d6a5c-9956-4ccd-8751-494f3c7ea6dc" />
+
+
+
 ## OUTPUT FROM MASM SOFTWARE
 
 
